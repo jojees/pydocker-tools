@@ -5,7 +5,7 @@ setup(
     version='0.0.1',
     description='pydocker-tools is a set of tools to work around lengthy or piped command line tools for docker',
     licence='MIT',
-    url='https://github.com/jojees/pydocker-tools'
+    url='https://github.com/jojees/pydocker-tools',
     author='Joji Vithayathil Johny',
     author_email='joji@jojees.net',
 
@@ -19,5 +19,5 @@ setup(
         'console_scripts': [
             'jpy-dtools = pydockertools.jpydtools:main'
         ]
-    },
+    }
 )
