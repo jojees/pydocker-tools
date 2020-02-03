@@ -1,11 +1,11 @@
 {
-  "accountId" : "400976400997",
+  "accountId" : "1234567890",
   "architecture" : "x86_64",
   "availabilityZone" : "us-west-2b",
   "billingProducts" : null,
   "devpayProductCodes" : null,
   "marketplaceProductCodes" : null,
-  "imageId" : "ami-09dd49acad85b7c53",
+  "imageId" : "ami-09ee49adac85b7c35",
   "instanceId" : "i-03167d9ed3b04449a",
   "instanceType" : "m5.large",
   "kernelId" : null,
